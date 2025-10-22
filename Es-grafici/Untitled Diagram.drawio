@@ -1,0 +1,226 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="ukJa_4mbE0gyjibr2nK4">
+    <mxGraphModel dx="989" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-1" target="eJoolwn4_HmnUjlmBPoy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-1" target="eJoolwn4_HmnUjlmBPoy-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-1" value="ROOT MGMT GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="336" y="190" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-2" target="eJoolwn4_HmnUjlmBPoy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-2" target="eJoolwn4_HmnUjlmBPoy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-2" target="eJoolwn4_HmnUjlmBPoy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-2" value="UNIT1 MGMT GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-3" target="eJoolwn4_HmnUjlmBPoy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-3" target="eJoolwn4_HmnUjlmBPoy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-3" target="eJoolwn4_HmnUjlmBPoy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-3" value="UNIT2 MGMT GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="260" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-4" value="Sub dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-5" value="Sub sales" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-6" value="Sub Marketing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-7" value="Sub dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-8" value="Sub sales" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-9" value="Sub Marketing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-39" target="eJoolwn4_HmnUjlmBPoy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-39" value="E-IT ROLE FOR COST REPORT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-41" value="&lt;ul style=&quot;box-sizing: border-box; padding-left: 2em; margin-top: 0px; margin-bottom: 0px; color: rgb(240, 246, 252); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(13, 17, 23);&quot; dir=&quot;auto&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 16px; margin-bottom: 16px;&quot; dir=&quot;auto&quot;&gt;What are different ways Tailwind Traders could organize their subscriptions and management groups. Which would be the best to meet their requirements? USE MGMT GROUP FOR BUSINESS UNIT AND SUBSCRIPTION TO DIVEDE THE DEPARTMENTS&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 16px; margin-bottom: 16px;&quot; dir=&quot;auto&quot;&gt;Design two alternative hierarchies and explain your decision-making process.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-100" width="730" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-42" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="18.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-43" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="18.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-44" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="247.41" y="360" width="18.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-46" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="18.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-47" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="18.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-48" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="18.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-49" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="350.94" y="160" width="30.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-51" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="30.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-52" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="489.06" y="230" width="30.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-53" target="eJoolwn4_HmnUjlmBPoy-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-53" value="ROOT MGMT GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302.59000000000003" y="690" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-54" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="310.00000000000006" y="660" width="30.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-55" value="&lt;ul style=&quot;box-sizing: border-box; padding-left: 2em; margin-top: 0px; margin-bottom: 0px; color: rgb(240, 246, 252); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(13, 17, 23);&quot; dir=&quot;auto&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 16px; margin-bottom: 16px;&quot; dir=&quot;auto&quot;&gt;What are the different ways Tailwind Traders could track costs for the new development project?&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="595" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-56" target="eJoolwn4_HmnUjlmBPoy-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-56" value="EIT ROLE FOR COST REPORT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="419.3" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-58" value="NEW PROJECT SUB TESTING SUB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312.09" y="860" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-59" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="302.59" y="860" width="18.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-61" target="eJoolwn4_HmnUjlmBPoy-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-61" value="NEW PROJECT MGMT GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="780" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-62" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="750" width="30.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-65" value="&lt;ul style=&quot;box-sizing: border-box; padding-left: 2em; margin-top: 0px; margin-bottom: 0px; color: rgb(240, 246, 252); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(13, 17, 23);&quot; dir=&quot;auto&quot;&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 16px; margin-bottom: 16px;&quot; dir=&quot;auto&quot;&gt;How are you ensuring compliance with the requirements for virtual machine sizing and naming?&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="990" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-67" target="eJoolwn4_HmnUjlmBPoy-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-67" value="ROOT MGMT GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302.59000000000003" y="1130" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-68" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="310.00000000000006" y="1100" width="30.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-70" target="eJoolwn4_HmnUjlmBPoy-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-70" value="EIT ROLE FOR COST REPORT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="419.3" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-71" value="NEW PROJECT SUB TESTING SUB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312.09" y="1300" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-72" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="302.59" y="1300" width="18.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-74" target="eJoolwn4_HmnUjlmBPoy-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-74" value="NEW PROJECT MGMT GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1220" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-75" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1190" width="30.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-76" value="POLICY ON SUB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120.94" y="1300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-76" target="eJoolwn4_HmnUjlmBPoy-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-78" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;ul style=&quot;box-sizing: border-box; padding-left: 2em; margin-top: 0px; margin-bottom: 0px; color: rgb(240, 246, 252); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(13, 17, 23); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; dir=&quot;auto&quot;&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 16px; margin-bottom: 16px;&quot; dir=&quot;auto&quot;&gt;Propose at least two ways of meeting the requirements. Explain your final decision.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="119" y="1470" width="621" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-80" target="eJoolwn4_HmnUjlmBPoy-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-80" value="ROOT MGMT GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.94000000000005" y="1640" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-81" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="335.3500000000001" y="1610" width="30.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-83" target="eJoolwn4_HmnUjlmBPoy-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-83" value="EIT ROLE FOR COST REPORT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444.65000000000003" y="1580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-84" value="NEW PROJECT SUB TESTING SUB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335.35" y="1920" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-85" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="325.85" y="1920" width="18.59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-87" target="eJoolwn4_HmnUjlmBPoy-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-87" value="NEW PROJECT MGMT GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335.35" y="1730" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-88" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="345.35" y="1700" width="30.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-89" value="POLICY ON SUB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.108;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-89" target="eJoolwn4_HmnUjlmBPoy-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="174" y="1815" />
+              <mxPoint x="342" y="1815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eJoolwn4_HmnUjlmBPoy-91" target="eJoolwn4_HmnUjlmBPoy-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-91" value="NEW PROJECT MGMT GROUP TESTING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335.35" y="1830" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJoolwn4_HmnUjlmBPoy-92" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="345.35" y="1800" width="30.94" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
